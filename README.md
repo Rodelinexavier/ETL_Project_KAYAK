@@ -1,5 +1,6 @@
 # Bloc1_Certification_Kayak
 In this project, i will : 
+
 1.-Scrape data from destinations.
 
 2.-Get weather data from each destination.
