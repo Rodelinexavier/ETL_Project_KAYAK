@@ -12,7 +12,7 @@ In this project, I will :
 5.-Extract, transform and load cleaned data from your datalake to a data warehouse.
 
 
-For that, i will use those websites:
+For that, I will use those websites:
 
 1.- https://nominatim.org/ to get the gps coordinates of all the cities.
 
