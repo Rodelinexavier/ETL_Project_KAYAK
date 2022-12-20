@@ -1,5 +1,5 @@
 # Bloc1_Certification_Kayak
-In this project, i will : 
+In this project, I will : 
 
 1.-Scrape data from destinations.
 
