@@ -1,4 +1,4 @@
-# Bloc1_Certification_Kayak
+# ETL_Project_Kayak
 In this project, I will : 
 
 1.-Scrape data from destinations.
@@ -17,7 +17,4 @@ For that, I will use those websites:
 1.- https://nominatim.org/ to get the gps coordinates of all the cities.
 
 2.-  https://openweathermap.org/appid (you have to subscribe to get a free apikey) and https://openweathermap.org/api/one-call-api to get some information about the weather for the 35 cities and put it in a DataFrame.
-
-
-Lien video : https://share.vidyard.com/watch/Ms6URJoqHT8xiskAmee26Q?
 
